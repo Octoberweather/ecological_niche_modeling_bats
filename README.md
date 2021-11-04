@@ -1,2 +1,4 @@
 # figures-for-ecological-niche-modeling
-Figures 1 through 7, Tables 1 and 2. All figures created in R and tables created in Word.
+- Figures 1 through 7
+- Tables 1 through 3
+- All figures created in R, all tables created in Word
